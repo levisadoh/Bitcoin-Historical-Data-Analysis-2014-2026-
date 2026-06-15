@@ -71,12 +71,12 @@ Year	Annual Return
 2023	+155.41%
 2024	+120.98%
 2025	–6.33%
-2017 stands out as Bitcoin's most extraordinary year — a 13x return driven by retail speculation and the initial coin offering (ICO) boom. The following year saw an equally dramatic reversal.
+2017 stands out as Bitcoin's most extraordinary year  a 13x return driven by retail speculation and the initial coin offering (ICO) boom. The following year saw an equally dramatic reversal.
 Drawdowns
 The single largest drawdown in this dataset occurred on December 15, 2018, when Bitcoin had fallen –83.4% from its then-all-time high of approximately $19,500 set in late 2017. The 2022 bear market produced a second major drawdown of over 77%, driven by the collapse of the Terra/LUNA ecosystem and the FTX exchange.
 Volatility & Volume
-Bitcoin closed higher than it opened on 52.4% of trading days — only marginally above random, highlighting how difficult short-term prediction is
-The correlation between trading volume and directional price movement is 0.027 — essentially zero — meaning high-volume days do not reliably predict whether the price will rise or fall
+Bitcoin closed higher than it opened on 52.4% of trading days only marginally above random, highlighting how difficult short-term prediction is
+The correlation between trading volume and directional price movement is 0.027 essentially zero meaning high-volume days do not reliably predict whether the price will rise or fall
 The 30-day rolling volatility peaks sharply during crash events (2018, 2020, 2022), confirming that volatility is mean-reverting but fat-tailed in Bitcoin markets
 ---
 Visualisations
@@ -86,8 +86,7 @@ Trading Volume Over Time — daily volume with structural growth visible post-20
 Price with Annotated Market Events — crashes (2018, 2022) and peaks (2021, 2024) highlighted
 Moving Averages (7-day & 30-day) — trend smoothing overlaid on close price
 Price & Volume Combined Chart — dual-axis layout with volume bars beneath price
-Summary Dashboard (4-panel) — annual returns, drawdown curve, return distribution, and % green days per year
-![Summary Dashboard](visuals/bitcoin_summary_dashboard.png)
+
 ---
 How to Run
 Option 1 — Google Colab (recommended):  
