@@ -28,6 +28,9 @@ Engineer meaningful financial features from raw OHLCV data
 Identify patterns in volatility, seasonality, and market cycles
 Quantify key milestones: best/worst days, annual returns, and drawdowns
 Present findings through clear, publication-ready visualisations
+<img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/442fb98e-fd86-4952-af50-bddcb15b4145" />
+
+
 ---
 Methodology
 The analysis is structured across seven steps:
