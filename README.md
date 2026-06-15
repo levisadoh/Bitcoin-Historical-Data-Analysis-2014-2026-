@@ -13,23 +13,13 @@ Environment: Google Colab
 
 Project Structure
 
-bitcoin-analysis/
-│
-├── data/
-│   └── bitcoin_dataset.csv
-│
-├── bitcoin_analysis.ipynb
-│
-├── visuals/
-│   ├── price_over_time.png
-│   ├── volume_over_time.png
-│   ├── high_and_low.png
-│   ├── 7 days_and_30_days_moving_average.png
-│   ├── price_and_volume_analysis.png
-│   
-│
-├── README.md
-└── requirements.txt
+bitcoin-analysis
+
+──data─ bitcoin_dataset.csv
+──bitcoin_analysis.ipynb
+──visuals ─ price_over_time.png, volume_over_time.png,high_and_low.png, 7 days_and_30_days_moving_average.png,price_and_volume_analysis.png
+──README.md
+──requirements.txt
 
 
 Objectives
