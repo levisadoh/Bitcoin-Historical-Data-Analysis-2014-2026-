@@ -44,7 +44,11 @@ Step	Focus
 7	Summary statistics and key findings
 ---
 Key Findings
+
+
 <img width="615" height="455" alt="image" src="https://github.com/user-attachments/assets/dc19e692-9447-4925-b481-df5de50ff749" />
+
+
 <img width="584" height="455" alt="image" src="https://github.com/user-attachments/assets/c736d9db-f81c-4f57-97bd-61a49f04eb91" />
 
 
