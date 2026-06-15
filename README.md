@@ -149,7 +149,7 @@ Open bitcoin_analysis.ipynb directly in Google Colab and run all cells in order.
 
 Option 2 — Local environment:
 
-bashgit clone https://github.com/YOUR_USERNAME/bitcoin-analysis.git
+bashgit clone https://github.com/levisadoh/bitcoin-analysis.git
 cd bitcoin-analysis
 pip install -r requirements.txt
 jupyter notebook bitcoin_analysis.ipynb
