@@ -28,7 +28,7 @@ Engineer meaningful financial features from raw OHLCV data
 Identify patterns in volatility, seasonality, and market cycles
 Quantify key milestones: best/worst days, annual returns, and drawdowns
 Present findings through clear, publication-ready visualisations
-<img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/442fb98e-fd86-4952-af50-bddcb15b4145" />
+
 
 
 ---
@@ -44,6 +44,10 @@ Step	Focus
 7	Summary statistics and key findings
 ---
 Key Findings
+<img width="615" height="455" alt="image" src="https://github.com/user-attachments/assets/dc19e692-9447-4925-b481-df5de50ff749" />
+<img width="584" height="455" alt="image" src="https://github.com/user-attachments/assets/c736d9db-f81c-4f57-97bd-61a49f04eb91" />
+
+
 Price Performance
 Starting price (Sep 17, 2014): $457.33
 Latest price (Jun 2026): ~$74,000
@@ -76,13 +80,19 @@ Year	Annual Return
 2025	–6.33%
 2017 stands out as Bitcoin's most extraordinary year  a 13x return driven by retail speculation and the initial coin offering (ICO) boom. The following year saw an equally dramatic reversal.
 Drawdowns
+<img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/442fb98e-fd86-4952-af50-bddcb15b4145" />
 The single largest drawdown in this dataset occurred on December 15, 2018, when Bitcoin had fallen –83.4% from its then-all-time high of approximately $19,500 set in late 2017. The 2022 bear market produced a second major drawdown of over 77%, driven by the collapse of the Terra/LUNA ecosystem and the FTX exchange.
 Volatility & Volume
+<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/7ebc6f1f-9414-4ae1-be04-5eb4095d0a29" />
+
 Bitcoin closed higher than it opened on 52.4% of trading days only marginally above random, highlighting how difficult short-term prediction is
 The correlation between trading volume and directional price movement is 0.027 essentially zero meaning high-volume days do not reliably predict whether the price will rise or fall
 The 30-day rolling volatility peaks sharply during crash events (2018, 2020, 2022), confirming that volatility is mean-reverting but fat-tailed in Bitcoin markets
+<img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/b3446fc5-5615-45ae-af81-c4cd29535c7c" />
+
 ---
 Visualisations
+
 The notebook produces the following charts:
 Bitcoin Closing Price Over Time — full price history from 2014 to 2026
 Trading Volume Over Time — daily volume with structural growth visible post-2020
