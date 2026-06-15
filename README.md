@@ -20,7 +20,7 @@ bitcoin-analysis
 ──bitcoin_analysis.ipynb
 
 ──visuals ─ price_over_time.png, volume_over_time.png,high_and_low.png,
-7 days_and_30_days_moving_average.png,price_and_volume_analysis.png
+  7 days_and_30_days_moving_average.png,price_and_volume_analysis.png
 
 
 ──README.md
