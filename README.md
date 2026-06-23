@@ -43,7 +43,12 @@ Methodology
 
 The analysis is structured across seven steps:
 
-StepFocus1Data loading, type conversion, and cleaning2Exploratory analysis — price and volume over time3Feature engineering — daily returns, log returns, daily range4Trend analysis — yearly and monthly groupby aggregations5Market cycle annotation — crash and peak events6Volatility — rolling averages, rolling standard deviation, volume correlation7Summary statistics and key findings
+StepFocus
+1 Data loading, type conversion, and cleaning
+2 Exploratory analysis — price and volume over time
+3 Feature engineering — daily returns, log returns, daily range
+4 Trend analysis — yearly and monthly groupby aggregations5Market cycle annotation — crash and peak events6Volatility — rolling averages, rolling standard deviation, volume correlation
+7 Summary statistics and key findings
 
 
 Visualisations & Analysis
